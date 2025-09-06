@@ -1,4 +1,4 @@
-AWS Multi-Tier Web Hosting Project
+<img width="1536" height="1024" alt="ChatGPT Image Sep 6, 2025, 03_12_36 PM" src="https://github.com/user-attachments/assets/60a67db6-d1ad-418d-a424-772349ca2ccd" />AWS Multi-Tier Web Hosting Project
 📌 Overview
 
 This project demonstrates the deployment of a highly available, scalable, and secure multi-tier web application on Amazon Web Services (AWS). The architecture is designed to host a PHP-based website with separate layers for compute, storage, and database.
@@ -87,9 +87,6 @@ Secure database deployment in private subnet.
 
 Cost-effective and production-ready design.
 
-📷 Architecture Diagram
-
-(Insert your Lucidchart diagram or AWS architecture screenshot here)
 
 🧑‍💻 Author
 
